@@ -17,7 +17,8 @@ class BasicAuthMiddleware(object):
             if "basic" == auth_method.lower():
                 auth = auth.strip().decode("base64")
                 username, password = auth.split(":", 1)
-                if username == SETTINGS["basic-auth"]["username"] and password == SETTINGS["basic-auth"]["password"]:
+                if username == SETTINGS["basic-auth"]["username"] \
+                   and password == SETTINGS["basic-auth"]["password"]:
                     return None
         response = HttpResponse("Authorization Required", mimetype="text/plain")
         response.status_code = 401
