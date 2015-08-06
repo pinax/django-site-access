@@ -1,5 +1,7 @@
 django-site-access
 ==================
+.. image:: http://slack.pinaxproject.com/badge.svg
+   :target: http://slack.pinaxproject.com/
 
 .. image:: https://img.shields.io/travis/pinax/django-site-access.svg
     :target: https://travis-ci.org/pinax/django-site-access
