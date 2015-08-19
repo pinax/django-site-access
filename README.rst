@@ -20,9 +20,21 @@ django-site-access
 
 
 
-An app to provide utilities via middleware to control access to your django site.
+django-sites-access is an app to provide utilities via middleware to control access to your django site.
 
-Docs can be found at:
+Pinax is an open-source platform built on the Django Web Framework. It is an ecosystem of reusable Django apps, themes, and starter project templates. 
+This collection can be found at http://pinaxproject.com.
 
-http://django-site-access.rtfd.org
+This app was developed as part of the Pinax ecosystem but is just a Django app and can be used independently of other Pinax apps.
+
+In order to foster a kind, inclusive, and harassment-free community, the Pinax Project has a code of conduct, which can be found here  http://pinaxproject.com/pinax/code_of_conduct/.
+
+The documentation for django-sites-access can be found at http://django-site-access.rtfd.org.
+The Pinax documentation is available at http://pinaxproject.com/pinax/.
+
+For updates and news regarding the Pinax Project, please follow us on Twitter at @pinaxproject and check out our blog http://blog.pinaxproject.com.
+
+
+
+
 
