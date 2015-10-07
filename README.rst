@@ -32,13 +32,13 @@ This app was developed as part of the Pinax ecosystem but is just a Django app a
 django-site-access
 -------------------
 
-``django-sites-access`` is an app to provide utilities via middleware to control access to your django site.
+``django-site-access`` is an app to provide utilities via middleware to control access to your django site.
 
 
 Documentation
 --------------
 
-The documentation for django-sites-access can be found at http://django-site-access.rtfd.org.
+The documentation for ``django-site-access`` can be found at http://django-site-access.rtfd.org.
 The Pinax documentation is available at http://pinaxproject.com/pinax/.
 
 
